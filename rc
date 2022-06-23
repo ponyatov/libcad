@@ -1,1 +1,4 @@
-/home/ponyatov/rc
+#!/bin/sh
+git gui &
+kicad &
+pp &
